@@ -1,7 +1,6 @@
 # 👨‍🎓 Online-Training „Azure Cloud Architect“
 
 ## 🗓️ Wann und Wie: 
-- 10.03.2025 bis 13.03.2025
 - 24.03.2025 bis 27.03.2025
 - 05.05.2025 bis 08.05.2025
 - via Microsoft Teams
